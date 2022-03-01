@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sr. Tho. VViddringtons speech at a conference betweene both Houses on Tuesday the 20. of July 1641. At the transmission of the impeachment against Matthew Wren Doctor in Divinity, late Bishop of Norwich, and now Bishop of Ely.</title>
+            <author>Widdrington, Thomas, Sir, ca. 1600-1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96459</idno>
+            <idno type="STC">Wing W2088</idno>
+            <idno type="STC">Thomason E199_4</idno>
+            <idno type="STC">ESTC R8408</idno>
+            <idno type="EEBO-CITATION">99873305</idno>
+            <idno type="PROQUEST">99873305</idno>
+            <idno type="VID">157504</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157504)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E199[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sr. Tho. VViddringtons speech at a conference betweene both Houses on Tuesday the 20. of July 1641. At the transmission of the impeachment against Matthew Wren Doctor in Divinity, late Bishop of Norwich, and now Bishop of Ely.</title>
+                  <author>Widdrington, Thomas, Sir, ca. 1600-1664.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. G. for R. Best at Grayes Inne gate in Holborne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures A⁴.</note>
+                  <note>Printers' device on title page (McK. 422[B]).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wren, Matthew, 1585-1667.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157504:1" rendition="simple:additions"/>
+            <p>S<hi rend="sup">r</hi>. Tho. VViddringtons SPEECH At a Conference betweene Both Houſes, on Tueſday the 20. of July, 1641.</p>
+            <p>At the tranſmiſsion of the impeach<g ref="char:EOLhyphen"/>ment againſt <hi>Matthew Wren</hi> Doctor in Divinity, late Biſhop of <hi>Norwich,</hi> and now Biſhop of <hi>Ely.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's device, consisting of a factotum block of a rose used with a fleur-de-lis inserted as an ornament, belonging to E. Griffin (McKerrow No. 422)</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. G.</hi> for <hi>R. Beſt</hi> at Grayes Inne gate in Holborne, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157504:2"/>
+            <pb facs="tcp:157504:2"/>
+            <head>S<hi rend="sup">r</hi>. Thomas Widdringtons SPEECH The 20. of <hi>Iuly</hi> 1641.</head>
+            <opener>
+               <salute>My Lords,</salute> I am Commanded by the Knights, Citizens, and Burgeſſes now aſſembled for the Commons in parliament, to deliver to your Lordſhips theſe Articles, againſt the Biſhop of Ely.<lb/> May it pleaſe your Lordſhips firſt to heare them read.</opener>
+            <opener>
+               <salute>MY Lords,</salute>
+            </opener>
+            <p>Theſe Articles are dipped in thoſe Colours, in which this Biſhop rendred himſelfe to the Dioceſſe of Norwich, they need no Gloſſe, nor Varniſh. In them you may behold the ſpirit and diſpoſition of this Biſhop, heare the groanes and cryes of the people, ſee a ſhepheard ſcattering, (I had almoſt ſaid) devouring his owne flock; He that was deſired to paint Hercules, thought he had done enough, when he had made a reſemblance of the Lions skin, which he was wont to car<g ref="char:EOLhyphen"/>ry about him as a Trophee of his honour.</p>
+            <p>I will not ſay that in theſe you will find a reſemblance of the Lions skin, I am ſure you will finde the reſemblance of the skins (that is to ſay,) the tattered and ruind fortunes, of poore innocent lambes, who have extreamely ſuffered by the violence of this Biſhop.</p>
+            <p>In the yeare 1635. this man was created Biſhop of Norwich, he is no ſooner there, but he marcheth furiouſly.</p>
+            <pb facs="tcp:157504:3"/>
+            <p>In the creation of the world light was one of the firſt productions, the firſt viſible action of this Biſhop after his creation into this See was to put out many burning and ſhining lights, to ſuſpend diverſe able lear<g ref="char:EOLhyphen"/>ned and conſcientious miniſters, he that ſhould have beene the Golden ſnuffer of theſe lights, became the extinguiſher, &amp; when theſe are taken away, where ſhall poore men light their Candles?</p>
+            <p>My Lords, this was not all.</p>
+            <p>He put out lights, and ſets up fire brands in their places, ſuſpends painfull Miniſters, and ſets up idle factious and ſuperſtitious Prieſts, (to uſe their owne language) in their places, yet it is the fortune of theſe men at this time, like Rivers in the Ocean co be buryed in the extreame activity of their Dioceſan.</p>
+            <p>He made a ſcourge, not of ſmall cords, but of new Injunctions and numerous Articles tyed about with a ſtrong twiſt of a moſt dangerous oath; and with this he whips not out buyers and ſellers, but the faith<g ref="char:EOLhyphen"/>full diſpenſers of the word out of their Churches, out of their eſtates, out of their deere Country.</p>
+            <p>This <hi>Noah</hi> (if I may ſo call him without offence) aſſoone as he en<g ref="char:EOLhyphen"/>tered into the arke of this Dioceſſe, he ſends, nay forces Doves to fly out of this Arke, and when they returne unto him, with Olive branches in their mouthes of peaceable and humble ſubmiſſions, he will not receive them into this arke againe, unleſſe like Ravens they would feed upon the Carrion of his new Inventions, they muſt not have any footing there; he ſtands as a flaming ſword to keepe ſuch out of his Dioceſſe.</p>
+            <p>My Lords, unleſſe he had done this, he could never have hoped to have brought that great worke hee undoubtedly aymed at to any perfection.</p>
+            <p>Whilſt the <hi>Palladium</hi> of Troy ſtood, that Citie was impregnable, The Greekes had no ſooner ſtollen that away but they inſtantly won the Citie; So then he firſt put out the Candles, then was the opportuni<g ref="char:EOLhyphen"/>ty, to ſhuffle in his workes of darkneſſe: hee firſt beats off the Watch<g ref="char:EOLhyphen"/>men and ſeers, then was likely to follow that which the impiety of ſome was pleaſed to ſtile, the piety of the times.</p>
+            <p>This being done, he then begins to dreſſe out Gods Worſhip, accor<g ref="char:EOLhyphen"/>ding to his owne fancy, this he expreſſeth in Injunctions and directions the Minerva's of his owne braine; wee find them ſtiled <hi>Regales Injun<g ref="char:EOLhyphen"/>ctiones Domini Epiſcopi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> a ſtile too ſacred, to Baptiſe his brats withall; I ſhall bee bold to call them <hi>Tyrannicus injunctiones Do. Epiſcopi;</hi> ſto<g ref="char:EOLhyphen"/>ries afford not a more barbarous cruelty then to joyne a dead &amp; a living body together, the one is miſerably killed with the ſtinch of the other.</p>
+            <pb facs="tcp:157504:3"/>
+            <p>This Biſhop, who like <hi>Aaron</hi> ſhould have ſtood betweene the living and the dead, hath joyned to lively ordinances many dead and vene<g ref="char:EOLhyphen"/>mous ceremonies, which have no other life, then what they received from the breath of his Injunctions, and theſe are preſſed upon the Gon<g ref="char:EOLhyphen"/>ſciences, even theſe muſt be obſerved, as morall lawes.</p>
+            <p>An arbitrary governement in the Church is more dangerous, more grievous, then that in the ſtate; this is exerciſed upon mens conſciences, the moſt tender parts, and is the very penacle of tyranny, and of all o<g ref="char:EOLhyphen"/>ther moſt intollerable; that blow which will hardly be felt by the arme, will put out the eye.</p>
+            <p>(My Lords) in the time of King <hi>Rich.</hi> 1. one of this mans predec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<g ref="char:EOLhyphen"/>ſors a valiant Biſhop went into the holy warre, this Biſhop hath raiſed a warre at home in his owne Dioces; a warre not againſt Sarazens, Bar<g ref="char:EOLhyphen"/>barians, Turkes or Infidels, but againſt good and well diſpoſed people, I know not what ſtile to give this warre: without doubt (my Lords) this was no holy warre.</p>
+            <p>The weapons of this warfare were 28 Injunctions, 139 Articles con<g ref="char:EOLhyphen"/>taining 879 queſtions.</p>
+            <p>The ſouldiers were Chancellors, Commiſſaries, Officials, Commiſ<g ref="char:EOLhyphen"/>ſioners, Rurall Deanes, &amp;c.</p>
+            <p>Himſelfe commanded in chiefe.</p>
+            <p>The wayes of aſſault and killing were by excommunications, ſuſpen<g ref="char:EOLhyphen"/>ſions, deprivations,—I ſtay here: <hi>mille modis morimur mortales.</hi>
+            </p>
+            <p>The Magazin wherein all theſe were originally hatched and lodged, was the ſuperſtitious and malicious breſt of this Biſhop.</p>
+            <p>This Dioces was the ſtage where the direfull tragedies of this warre were acted by the ſpace of two yeares and upwards.</p>
+            <p>Thus did he trouble Iſrael in the time of peace, nay by theſe he put ſome of the Chariots and Horſemen of Iſrael to flight, out of theſe he raiſeth a farme of 500 pounds for his primary viſitation, if it be conſi<g ref="char:EOLhyphen"/>dered <hi>cum pertinentiis,</hi> it was not deere, yet well improved, for former<g ref="char:EOLhyphen"/>ly but 40 pound in the time of ſome of his predeceſſors.</p>
+            <p>Will it pleaſe your Lordſhips with patience to caſt your eyes upon the modell of this Biſhops zeale, piety, and Religion: Let his affection to prayer and preaching ſpeake for all the reſt.</p>
+            <p>Firſt for prayer. It was his hap to finde a prayer which is no prayer pretended to be preſcribed by a Canon which is no Canon, I meane the 55 Canon ſet forth in the yeare 1603, and no other prayer muſt be uſed in his Dioces before Sermons. That monſter of conceived prayer (par<g ref="char:EOLhyphen"/>don
+<pb facs="tcp:157504:4"/> the expreſsion, its not my owne) ſeemed as bad to him as a ſpell or charme. It muſt not be uſed upon any occaſion, without doubt he would never have been ſo ſtrait laced and ſevere in this particular, if hee had but dreamed of that ſtrait which a miniſter a friend of his was put unto by this meanes; the ſtory is ſhort. A Butcher was gored in the bel<g ref="char:EOLhyphen"/>ly by an Oxe, the wound was cured, the party deſired publique thankſ<g ref="char:EOLhyphen"/>giving in the Congregation, the Miniſter finding no forme for that pur<g ref="char:EOLhyphen"/>poſe reads the Collects for Churching of women:</p>
+            <p>Next for preaching. That he is moſt able in this kinde is agreed by all. But that he ever preached himſelfe in this Dioces ſaving once, I never heard affirmed by any.</p>
+            <p>His next care was that others ſhould not preach too often: if they did, they muſt be put into his black bill: He changed that golden ſentence of (<hi>vae mihi ſi non praedicavero</hi>) into <hi>vae aliis ſi praedicaverint;</hi> he was ſo far from the practiſe of Saint <hi>Paul</hi> the great Preacher of the Gentiles, who we reade preached till midnight, that there muſt be no Sermons in the afternoone, there may be, nay there muſt be ſports and paſtimes then. And as if he had ſtood in fear of the inarticulate language of bels which might foretell a Sermon, he cannot endure to heare the noiſe of a Ser<g ref="char:EOLhyphen"/>mon in the toll of a Bell.</p>
+            <p>In a word; he adorned Churches at the charge of other men, and ſpoyled Pulpits, which ought to have beene the greateſt part of his owne charge.</p>
+            <p>(My Lords) you have now preſented to your Lordſhips a brother, nay one whoſe place ingaged him to be a father of the Clergy, yet one who like Joſephs brethren hath taken the coats from Joſeph nay they were forced to flye from him as Joſeph from his Miſtris, or elſe they muſt taſte of his forbidden waters, but in their going away he rents their skirts, nay their whole garments and lively hoods from them, he hath ta<g ref="char:EOLhyphen"/>ken the locks from many <hi>Sampſons,</hi> and done what he could to put out their eyes, and to make them grinde in the mill of his pernicious and dangerous innovations.</p>
+            <p>He ſhould like <hi>Moſes</hi> have led his flocke. <hi>Moſes</hi> led the children of Iſrael through the red Sea; this man drives part of his flocke over the Sea, but went not himſelfe.</p>
+            <p>Like <hi>Nimrod</hi> he hath invaded the lawes and liberties of the ſubject, he hath beene as great a robber as ever was preſented to your Lordſhips: He hath robbed the King of his Subjects, the greateſt glory of Kings; the Kingdome of trade, of tradeſmen, the ſupporters of it.</p>
+            <pb facs="tcp:157504:4"/>
+            <p>He that deprives the King of one ſubject, you know his puniſhment, and what ſhall be the puniſhment of him who hath robbed the King of ſo many ſubjects?</p>
+            <p>In the time of King <hi>Henry</hi> the third, we finde a tenant in Dower pu<g ref="char:EOLhyphen"/>niſhed<note place="margin">16. H. 3. F. waſt. 128.</note> in action of waſte, becauſe ſhe had deſtroyed two rich villeynes, and made them beggers.</p>
+            <p>I appeale to your Lordſhips, what is his offence who hath committed ſo much wilfull waſt and ſpoyle, beggered hundreds, not villaines, but free borne ſubjects.</p>
+            <p>He robbed the ſoules of that ſweet Manna which is <hi>pabulum anima<g ref="char:EOLhyphen"/>rum,</hi> the Word of God.</p>
+            <p>(My Lords) I have not yet recounted all his robberies; he hath rob<g ref="char:EOLhyphen"/>bed God of part of his day, makes part of that a day of ſports; he hath robbed the ſubjects of their indubitable birth-right, the Lawes of the Kingdome.</p>
+            <p>The Citizens of Norwich muſt pay tythes for the rents of houſes; there's no Law in England, nor cuſtome in Norwich for it: Nay and that they may be ſure to be robbed of juſtice too, the ſuit for theſe tithes muſt be in his owne Conſiſtory, from whence there muſt be no appeale, no prohibition.</p>
+            <p>The true Patrons of Churches they are robbed of their preſentations, others who had none or ſmall pretence of right are admitted upon this unhallowed maxim, That if he ſhould inſtitute thoſe who had right, the pretendor was without remedy; by this he inverted a fundamen<g ref="char:EOLhyphen"/>tall Law of this Nation, to inveſt remedileſſe rights with unjuſt poſ<g ref="char:EOLhyphen"/>ſeſſions.</p>
+            <p>(My Lords) I cannot tell you all, but you can meaſure a Lyon by the paw.</p>
+            <p>I am commanded to lay this great malefactour at your doores, one who hath beene a great oppugner of the life and liberty of Religion, and who ſet a brand of infamy (to uſe his owne words) upon Ipſwich education.</p>
+            <p>In ſumme, one who is a compleate mirrour of innovation, ſuperſtiti<g ref="char:EOLhyphen"/>on, and oppreſſion, he is now in the ſnare of thoſe articles, which were the workes of his owne hands.</p>
+            <p>The rod of <hi>Moſes</hi> at a diſtance was a ſerpent, it was a rod againe when it was taken into his hands: this Biſhop was a ſerpent, a devouring ſerpent in the Dioces of Norwich; your Lordſhips peradventure will
+<pb facs="tcp:157504:5"/> by handling of him make him a rod againe; or if not, I doubt <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t but your Lordſhips will chaſtiſe him with ſuch rods as his cri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſerve.</p>
+            <p>(My Lords) I am commanded by the Houſe of Commons to deſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> your Lordſhips that this Biſhop may be required to make anſwer <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe Articles, and that there may be ſuch proceedings againſt him <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the courſe and juſtice of parliament doth admit:</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
